@@ -30,7 +30,6 @@
                 "#FDB45C",
                 "#949FB1",
                 "#4D5360"
-
               ],
               hoverBackgroundColor: [
                 "#FF5A5E",
